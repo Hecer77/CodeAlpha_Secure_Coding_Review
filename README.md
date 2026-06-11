@@ -1,4 +1,4 @@
-# CodeAlpha_Secure_Coding_Review
+
 # CodeAlpha - Secure Coding Review
 
 This repository contains **TASK 3: Secure Coding Review** developed as part of the **CodeAlpha Cyber Security Internship (Module 1)**. 
